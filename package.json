@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "abstract-logging": "^1.0.0",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "archy": "^1.0.0",
     "avvio": "^6.2.2",
     "debug": "^4.1.1",
